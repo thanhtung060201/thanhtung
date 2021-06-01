@@ -1,0 +1,89 @@
+{
+      1: {
+        blogId: '1',
+        title: 'THÔNG BÁO RA MẮT AWREAD BẢN OPEN ALPHA',
+        image: 'https://www.vietiso.com/images/content/intro/c02-1_jpg.jpg',
+        updatedAt: '2021-05-31 - 2021-06-12',
+        position: 'banner',
+      },
+      2: {
+        blogId: '2',
+        title: 'TEST CÁC TÍNH NĂNG CỦA AWREAD',
+        image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg',
+        updatedAt: '2021-05-18 - 2021-05-31',
+        position: 'banner',
+      },
+      3: {
+        blogId: '3',
+        title: '[TẠM DỪNG] Trí nhớ của anh, hồi ức của em',
+        status: 'NEW',
+        description: 'Ngày 1/6 tới đây, Lotus không trả tiền nữa nên drop truyện luôn. Không có tiền lấy sức đâu mà viết?',
+        image: 'https://photographer.com.vn/wp-content/uploads/2020/08/1596889696_Anh-avatar-dep-va-doc-dao-lam-hinh-dai-dien.jpg',
+        updatedAt: '2021-05-24',
+        position: 'left',
+      },
+      4: {
+        blogId: '4',
+        title: '[BẢO TRÌ] Awread',
+        status: 'NEW',
+        description: 'Từ 1/6 đến 6/6',
+        image: 'https://png.pngtree.com/element_our/20190530/ourlarge/pngtree-520-couple-avatar-boy-avatar-little-dinosaur-cartoon-cute-image_1263411.jpg',
+        updatedAt: '2021-05-24',
+        position: 'left',
+      },
+      5: {
+        blogId: '5',
+        title: '[THÔNG BÁO] Chả có thông báo nào ở đây cả',
+        status: 'HOT',
+        description: 'Một cú lừa - Bích Phương',
+        image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkwYQuTYcqB7wnAvzApNYO2MLl_Llz4RyyA&usqp=CAU',
+        updatedAt: '2021-05-24',
+        position: 'left',
+      },
+      6: {
+        blogId: '6',
+        title: 'BITCOIN ĐÃ BỊ THAO TÚNG',
+        status: 'HOT',
+        description:
+          'Vì Bitcoin bị thao túng rơi không phanh nên Tùng và Quý, những con thỏ non của làng coin đang trong trạng thái chia 3 tài khoản. Tùng và Quý đều buồn.',
+        image: '/global-assets/images/Rectangle-492.webp',
+        updatedAt: '2021-05-24',
+        position: 'top',
+      },
+      7: {
+        blogId: '7',
+        title: 'test 1',
+        description:
+          'Ngày 31/5 tới đây, Awread sẽ chính thức phát hành bản open alpha tới tất cả các tài khoản đăng ký trước qua form thông tin và qua các bài đăng facebook.',
+        image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg',
+        updatedAt: '2021-05-24',
+        position: 'middle',
+      },
+      8: {
+        blogId: '8',
+        title: 'test 2',
+        description:
+          'Ngày 31/5 tới đây, Awread sẽ chính thức phát hành bản open alpha tới tất cả các tài khoản đăng ký trước qua form thông tin và qua các bài đăng facebook.',
+        image: '/global-assets/images/Rectangle-492.webp',
+        updatedAt: '2021-05-24',
+        position: 'middle',
+      },
+      9: {
+        blogId: '9',
+        title: 'test 3',
+        description:
+          'Ngày 31/5 tới đây, Awread sẽ chính thức phát hành bản open alpha tới tất cả các tài khoản đăng ký trước qua form thông tin và qua các bài đăng facebook.',
+        image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg',
+        updatedAt: '2021-05-24',
+        position: 'middle',
+      },
+      10: {
+        blogId: '10',
+        title: 'THÔNG BÁO RA MẮT AWREAD BẢN OPEN ALPHA',
+        description:
+          'Ngày 31/5 tới đây, Awread sẽ chính thức phát hành bản open alpha tới tất cả các tài khoản đăng ký trước qua form thông tin và qua các bài đăng facebook.',
+        image: 'https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg',
+        updatedAt: '2021-05-24',
+        position: 'bottom',
+      }
+}
