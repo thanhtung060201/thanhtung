@@ -2,11 +2,10 @@
   "1": { 
         "newsId": "1", 
         "title": "THÔNG BÁO RA MẮT AWREAD BẢN OPEN ALPHA", 
-        "image": "https://listsach.com/wp-content/uploads/2020/02/top-sach-hay-cho-be-list-sach-truyen-thieu-nhi.jpg",
         "description": "Ngày 6/6 tới đây, Awread sẽ chính thức phát hành bản open alpha.",
-        "status": "HOT",
         "position": "banner", 
-        "updatedAt": "2021-06-06",
+        "image": "https://listsach.com/wp-content/uploads/2020/02/top-sach-hay-cho-be-list-sach-truyen-thieu-nhi.jpg",
+        "updatedAt": "2021-06-06"
        },
   "2": { 
         "newsId": "2", 
